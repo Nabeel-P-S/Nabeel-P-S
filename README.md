@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nabeel-P-S
 - 👀 I’m interested in music and coding
-- 🌱 I’m currently learning React Native
+
 - 💞️ I’m looking to collaborate on core php projects
 - 📫  to reach me ... +917736656121
 
